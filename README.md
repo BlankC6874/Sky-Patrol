@@ -1,1 +1,1 @@
-Class assignment for CMPM120 where we explore 1D movement
+Game 2: Gallery shooter design and implementation
